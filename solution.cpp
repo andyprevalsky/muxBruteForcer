@@ -12,7 +12,7 @@ int main()
 int bval, aval;
 int iarray[] = {0, 1};
 
-fuckme(0, 0);
+fme(0, 0);
 
 return 0;
 }
